@@ -11,6 +11,9 @@
 *	Edit this section
 *
 * ======================================================= */
+.textoAlinear {
+  text-align: justify;
+}
 
 .copyright {
   text-align: center;
